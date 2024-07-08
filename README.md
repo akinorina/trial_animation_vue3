@@ -1,0 +1,1 @@
+# trial_animation_vue3
